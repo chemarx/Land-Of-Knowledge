@@ -1,4 +1,0 @@
-up:: 
-tags:: 
-
-# ChatGPT prompt
